@@ -1,1 +1,12 @@
-﻿
+Ülesanne 1: Logi pidamine (Failikirjutamine) (3p)
+Teema: StreamWriter, append-mode, DateTime.
+
+Loo klassi AndmeFunktsioonid meetod KirjutaLogi, mis võtab parameetrina vastu tekstilise teate (nt "Kasutaja logis sisse").
+
+Tegevus:
+
+Meetod peab avama faili logi.txt lisamisrežiimis (append: true).
+
+Iga rida failis peab olema formaadis: [KUUPÄEV ja KELL] - Teade.
+
+Näide faili sisust: [18.02.2025 14:30:00] - Programm käivitati.﻿
